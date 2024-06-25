@@ -84,5 +84,6 @@ Vậy là cf được có user là admin và chưa có đươc password. Cái n�
 ![image](https://github.com/vanniichan/HackTheBox/assets/112863484/a1e34d5c-23e2-4aed-a2d2-661e09262276)
 
 ----------------------------------------
+Ngoài ra còn 1 cách đó là dùng **Metasploit** để khai thác vuln này rất nhanh. Cách làm [ở đây](https://academy.hackthebox.com/module/77/section/854)
 
 -------------------- **Own machine!** --------------------------
