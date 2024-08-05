@@ -251,7 +251,7 @@ type root.txt
 5. What 2017 Microsoft Security Bulletin number describes a remote code execution vulnerability in SMB? --> MS17-010
 6. Optional question: A worm was set loose on the internet in May 2017 propagating primarily through MS17-010. What is the famous name for that malware? --> WannaCry
 7. What user do you get execution with when exploiting MS17-010? Include the full name, including anything before a --> nt authority\system
-8. Submit the flag located on the haris user's desktop. --> cc178dbb1098be117b481cd5f62a67b0
+8. Submit the flag located on the haris user's desktop. --> cc178dbb1098be117b48*******
 9. Submit the flag located on the administrator's desktop. --> 2de93965901348ba******
 
 ![image](https://hackmd.io/_uploads/HkRHQrtFA.png)
