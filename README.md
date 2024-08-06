@@ -9,3 +9,4 @@
 |3| Blue | [Link](https://app.hackthebox.com/machines/51) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Blue/WriteUp.md)|
 |4| Love | [Link](https://app.hackthebox.com/machines/Love) | [Link](https://github.com/vanniichan/HackTheBox/tree/main/Love) |
 |5| Knife | [Link](https://app.hackthebox.com/machines/Knife) | [Link](https://github.com/vanniichan/HackTheBox/tree/main/Knife) |
+|6| ServMon | [Link](https://app.hackthebox.com/machines/ServMon) | [Link](https://github.com/vanniichan/HackTheBox/tree/main/ServMon) |
