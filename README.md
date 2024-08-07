@@ -10,3 +10,4 @@
 |4| Love | [Link](https://app.hackthebox.com/machines/Love) | [Link](https://github.com/vanniichan/HackTheBox/tree/main/Love) |
 |5| Knife | [Link](https://app.hackthebox.com/machines/Knife) | [Link](https://github.com/vanniichan/HackTheBox/tree/main/Knife) |
 |6| ServMon | [Link](https://app.hackthebox.com/machines/ServMon) | [Link](https://github.com/vanniichan/HackTheBox/tree/main/ServMon) |
+|7| Blunder | [Link](https://app.hackthebox.com/machines/Blunder) | [Link](https://github.com/vanniichan/HackTheBox/tree/main/Blunder) |
