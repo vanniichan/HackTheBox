@@ -11,3 +11,5 @@
 |5| Knife | [Link](https://app.hackthebox.com/machines/Knife) | [Link](https://github.com/vanniichan/HackTheBox/tree/main/Knife) |
 |6| ServMon | [Link](https://app.hackthebox.com/machines/ServMon) | [Link](https://github.com/vanniichan/HackTheBox/tree/main/ServMon) |
 |7| Blunder | [Link](https://app.hackthebox.com/machines/Blunder) | [Link](https://github.com/vanniichan/HackTheBox/tree/main/Blunder) |
+|8| Magic | [Link](https://app.hackthebox.com/machines/241) | [Link](https://github.com/vanniichan/HackTheBox/tree/main/Magic) |
+
