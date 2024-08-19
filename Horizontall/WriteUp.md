@@ -2,7 +2,7 @@
 
 # Machine info and Comment
 ## Machine info
-[Link](https://app.hackthebox.com/machines/Doctor)
+[Link](https://app.hackthebox.com/machines/374/information)
 
 ## Comment
 Đây là một máy có lỗ hổng SSTI to RCE sau đó tiến hành leo quyền 
