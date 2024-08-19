@@ -13,3 +13,4 @@
 |7| Blunder | [Link](https://app.hackthebox.com/machines/Blunder) | [Link](https://github.com/vanniichan/HackTheBox/tree/main/Blunder) |
 |8| Magic | [Link](https://app.hackthebox.com/machines/241) | [Link](https://github.com/vanniichan/HackTheBox/tree/main/Magic) |
 |9| Doctor | [Link](https://app.hackthebox.com/machines/Doctor) | [Link](https://github.com/vanniichan/HackTheBox/tree/main/Doctor) |
+|10| Horizontall | [Link](https://app.hackthebox.com/machines/374) | [Link](https://github.com/vanniichan/HackTheBox/tree/main/Horizontall) |
