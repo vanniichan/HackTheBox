@@ -14,3 +14,4 @@
 |8| Magic | [Link](https://app.hackthebox.com/machines/241) | [Link](https://github.com/vanniichan/HackTheBox/tree/main/Magic) |
 |9| Doctor | [Link](https://app.hackthebox.com/machines/Doctor) | [Link](https://github.com/vanniichan/HackTheBox/tree/main/Doctor) |
 |10| Horizontall | [Link](https://app.hackthebox.com/machines/374) | [Link](https://github.com/vanniichan/HackTheBox/tree/main/Horizontall) |
+|11| Traverxec | [Link](https://app.hackthebox.com/machines/Traverxec) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Traverxec/WriteUp.md) |
