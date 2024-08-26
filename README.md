@@ -15,3 +15,4 @@
 |9| Doctor | [Link](https://app.hackthebox.com/machines/Doctor) | [Link](https://github.com/vanniichan/HackTheBox/tree/main/Doctor) |
 |10| Horizontall | [Link](https://app.hackthebox.com/machines/374) | [Link](https://github.com/vanniichan/HackTheBox/tree/main/Horizontall) |
 |11| Traverxec | [Link](https://app.hackthebox.com/machines/Traverxec) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Traverxec/WriteUp.md) |
+|12| Luanne | [Link](https://app.hackthebox.com/machines/302) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Luanne/WriteUp.md) |
