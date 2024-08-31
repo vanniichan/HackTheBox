@@ -19,3 +19,4 @@
 |13| Passage | [Link](https://app.hackthebox.com/machines/Passage) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Passage/WriteUp.md) |
 |14| Mango | [Link](https://app.hackthebox.com/machines/214) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Mango/WriteUp.md) |
 |15| Ophiuchi | [Link](https://app.hackthebox.com/machines/315) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Ophiuchi/WriteUp.md) |
+|16| Remote | [Link](https://app.hackthebox.com/machines/234) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Remote/WriteUp.md) |
