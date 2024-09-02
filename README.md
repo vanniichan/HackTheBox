@@ -20,3 +20,7 @@
 |14| Mango | [Link](https://app.hackthebox.com/machines/214) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Mango/WriteUp.md) |
 |15| Ophiuchi | [Link](https://app.hackthebox.com/machines/315) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Ophiuchi/WriteUp.md) |
 |16| Remote | [Link](https://app.hackthebox.com/machines/234) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Remote/WriteUp.md) |
+|17| Json | [Link](https://app.hackthebox.com/machines/Json) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Json/WriteUp.md) |
+
+## Note
+[1] Nhận ra cấu trúc Wup hơi ngáo nên từ đã sửa lại từ máy [Json](https://github.com/vanniichan/HackTheBox/blob/main/Json/WriteUp.md)
