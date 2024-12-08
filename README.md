@@ -1,6 +1,6 @@
-# Study and Practice in HackTheBox:
+# Study and Practice in HackTheBox
 
-## Machine:
+## Machines
 
 | STT | Name Machine | Room | Write Up |
 | --- | --- | --- | --- |
@@ -22,6 +22,11 @@
 |16| Remote | [Link](https://app.hackthebox.com/machines/234) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Remote/WriteUp.md) |
 |17| Json | [Link](https://app.hackthebox.com/machines/Json) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Json/WriteUp.md) |
 |18| Cicada | [Link](https://app.hackthebox.com/machines/Cicada) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Cicada/WriteUp.md) |
+
+## Sherlocks
+| STT | Name Machine | Room | Write Up |
+| --- | --- | --- | --- |
+|1| Brutus | [Link](https://app.hackthebox.com/sherlocks/Brutus) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Brutus/WriteUp.md)
 
 ## Note
 [1] Nhận ra cấu trúc Wup hơi ngáo nên từ đã sửa lại từ máy [Json](https://github.com/vanniichan/HackTheBox/blob/main/Json/WriteUp.md)
