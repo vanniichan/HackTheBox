@@ -26,7 +26,8 @@
 ## Sherlocks
 | STT | Name Machine | Room | Write Up |
 | --- | --- | --- | --- |
-|1| Brutus | [Link](https://app.hackthebox.com/sherlocks/Brutus) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Brutus/WriteUp.md)
+|1| Brutus | [Link](https://app.hackthebox.com/sherlocks/Brutus) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Brutus/WriteUp.md) |
+|2| Noted | [Link](https://app.hackthebox.com/sherlocks/Noted) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Noted/WriteUp.md) | 
 
 ## Note
 [1] Nhận ra cấu trúc Wup hơi ngáo nên từ đã sửa lại từ máy [Json](https://github.com/vanniichan/HackTheBox/blob/main/Json/WriteUp.md)
