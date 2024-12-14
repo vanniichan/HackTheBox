@@ -99,6 +99,6 @@ Chuyển đổi [ở đây](https://www.epochconverter.com/)
 
 ![image](https://hackmd.io/_uploads/HywJMGLEye.png)
 
+------------------------------------------ Kết thúc Sherlock! ------------------------------------------
+
 ![image](https://hackmd.io/_uploads/HyMpUMUN1g.png)
-
-
