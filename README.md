@@ -30,5 +30,7 @@
 |2| Noted | [Link](https://app.hackthebox.com/sherlocks/Noted) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Noted/WriteUp.md) | 
 |3| Jingle Bell | [Link](https://app.hackthebox.com/sherlocks/Jingle%20Bell) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Jingle%20Bell/WriteUp.md) |
 |4| Litter | [Link](https://app.hackthebox.com/sherlocks/Litter) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Litter/WriteUp.md) |
+|5| Bling Bling | [Link](https://app.hackthebox.com/sherlocks/OpSalwarKameez24-5:%20Bling-Bling/) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Bling%20Bling/WriteUp.md) | 
+
 ## Note
 [1] Nhận ra cấu trúc Wup hơi ngáo nên từ đã sửa lại từ máy [Json](https://github.com/vanniichan/HackTheBox/blob/main/Json/WriteUp.md)
