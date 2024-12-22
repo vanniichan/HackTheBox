@@ -32,6 +32,7 @@
 |4| Litter | SOC | [Link](https://app.hackthebox.com/sherlocks/Litter) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Litter/WriteUp.md) |
 |5| Bling Bling | SOC |[Link](https://app.hackthebox.com/sherlocks/OpSalwarKameez24-5:%20Bling-Bling/) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Bling%20Bling/WriteUp.md) | 
 |6| Tracer | DFIR (W) | [Link](https://app.hackthebox.com/sherlocks/Tracer) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Tracer/WriteUp.md) |
+|7| Salsa-Dance | DFIR (W) | [Link](https://app.hackthebox.com/sherlocks/OpSalwarKameez24-4:%20Salsa-Dance/info) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Salsa-Dance/WriteUp.md) |
 
 ## Note
 [1] Nhận ra cấu trúc Wup hơi ngáo nên từ đã sửa lại từ máy [Json](https://github.com/vanniichan/HackTheBox/blob/main/Json/WriteUp.md)
