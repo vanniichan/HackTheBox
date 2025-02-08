@@ -22,7 +22,7 @@
 |16| Remote | Windows | [Link](https://app.hackthebox.com/machines/234) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Remote/WriteUp.md) |
 |17| Json | Windows |[Link](https://app.hackthebox.com/machines/Json) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Json/WriteUp.md) |
 |18| Cicada | Windows | [Link](https://app.hackthebox.com/machines/Cicada) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Cicada/WriteUp.md) |
-
+|19| Cat | Linux | [Link](https://app.hackthebox.com/machines/646) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Cat/WriteUp.md) |
 ## Sherlocks
 | STT | Name Machine | Category | Room | Write Up |
 | --- | --- | --- | --- | --- |
