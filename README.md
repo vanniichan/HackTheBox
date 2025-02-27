@@ -24,7 +24,7 @@
 |18| Cicada | Windows | [Link](https://app.hackthebox.com/machines/Cicada) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Cicada/WriteUp.md) |
 |19| Cat | Linux | [Link](https://app.hackthebox.com/machines/646) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Cat/WriteUp.md) |
 ## Sherlocks
-| STT | Name Machine | Category | Room | Write Up |
+| STT | Name Sherlock | Category | Room | Write Up |
 | --- | --- | --- | --- | --- |
 |1| Brutus | DFIR (L) | [Link](https://app.hackthebox.com/sherlocks/Brutus) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Brutus/WriteUp.md) |
 |2| Noted | DFIR (W) |[Link](https://app.hackthebox.com/sherlocks/Noted) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Noted/WriteUp.md) | 
@@ -33,6 +33,9 @@
 |5| Bling Bling | SOC |[Link](https://app.hackthebox.com/sherlocks/OpSalwarKameez24-5:%20Bling-Bling/) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Bling%20Bling/WriteUp.md) | 
 |6| Tracer | DFIR (W) | [Link](https://app.hackthebox.com/sherlocks/Tracer) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Tracer/WriteUp.md) |
 |7| Salsa-Dance | DFIR (W) | [Link](https://app.hackthebox.com/sherlocks/OpSalwarKameez24-4:%20Salsa-Dance/info) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Salsa-Dance/WriteUp.md) |
-
+## Challenges
+| STT | Name Challenge | Category | Room | Write Up |
+| --- | --- | --- | --- | --- |
+|1| Fishy HTTP| Forensics | [Link](https://app.hackthebox.com/challenges/Fishy%20HTTP)|[Link](https://github.com/vanniichan/HackTheBox/blob/main/Fishy%20HTTP/WriteUp.md)
 ## Note
 [1] Nhận ra cấu trúc Wup hơi ngáo nên từ đã sửa lại từ máy [Json](https://github.com/vanniichan/HackTheBox/blob/main/Json/WriteUp.md)
