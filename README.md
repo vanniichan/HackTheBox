@@ -38,5 +38,6 @@
 | --- | --- | --- | --- | --- |
 |1| Fishy HTTP| Forensics | [Link](https://app.hackthebox.com/challenges/Fishy%20HTTP)|[Link](https://github.com/vanniichan/HackTheBox/blob/main/Fishy%20HTTP/WriteUp.md)
 |2| Diagnostic| Forensics | [Link](https://app.hackthebox.com/challenges/Diagnostic)|[Link](https://github.com/vanniichan/HackTheBox/blob/main/Diagnostic/WriteUp.md)
+|3| Obsecure| Forensics | [Link](https://app.hackthebox.com/challenges/84)|[Link](https://github.com/vanniichan/HackTheBox/blob/main/Obsecure/WriteUp.md)
 ## Note
 [1] Nhận ra cấu trúc Wup hơi ngáo nên từ đã sửa lại từ máy [Json](https://github.com/vanniichan/HackTheBox/blob/main/Json/WriteUp.md)
