@@ -24,6 +24,8 @@
 |18| Cicada | Windows | [Link](https://app.hackthebox.com/machines/Cicada) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Cicada/WriteUp.md) |
 |19| Cat | Linux | [Link](https://app.hackthebox.com/machines/646) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Cat/WriteUp.md) |
 |20| Cypher | Linux | [Link](https://app.hackthebox.com/machines/650) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Cypher/WriteUp.md) |
+|21| TrueSecrets | Linux | [Link](https://app.hackthebox.com/challenges/446) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/TrueSecrets/WriteUp.md) |
+
 ## Sherlocks
 | STT | Name Sherlock | Category | Room | Write Up |
 | --- | --- | --- | --- | --- |
