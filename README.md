@@ -24,7 +24,7 @@
 |18| Cicada | Windows | [Link](https://app.hackthebox.com/machines/Cicada) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Cicada/WriteUp.md) |
 |19| Cat | Linux | [Link](https://app.hackthebox.com/machines/646) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Cat/WriteUp.md) |
 |20| Cypher | Linux | [Link](https://app.hackthebox.com/machines/650) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Cypher/WriteUp.md) |
-|21| TrueSecrets | Linux | [Link](https://app.hackthebox.com/challenges/446) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/TrueSecrets/WriteUp.md) |
+|21| Dog | Linux | [Link](https://app.hackthebox.com/machines/651) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Dog/WriteUp.md) |
 
 ## Sherlocks
 | STT | Name Sherlock | Category | Room | Write Up |
@@ -42,5 +42,6 @@
 |1| Fishy HTTP| Forensics | [Link](https://app.hackthebox.com/challenges/Fishy%20HTTP)|[Link](https://github.com/vanniichan/HackTheBox/blob/main/Fishy%20HTTP/WriteUp.md)
 |2| Diagnostic| Forensics | [Link](https://app.hackthebox.com/challenges/Diagnostic)|[Link](https://github.com/vanniichan/HackTheBox/blob/main/Diagnostic/WriteUp.md)
 |3| Obsecure| Forensics | [Link](https://app.hackthebox.com/challenges/84)|[Link](https://github.com/vanniichan/HackTheBox/blob/main/Obsecure/WriteUp.md)
+|4| TrueSecrets | Linux | [Link](https://app.hackthebox.com/challenges/446) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/TrueSecrets/WriteUp.md) |
 ## Note
 [1] Nhận ra cấu trúc Wup hơi ngáo nên từ đã sửa lại từ máy [Json](https://github.com/vanniichan/HackTheBox/blob/main/Json/WriteUp.md)
