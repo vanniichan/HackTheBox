@@ -159,7 +159,7 @@ Việc đọc `user.txt` vẫn chưa được và cần phải nhảy sang user 
 
 ![image](https://hackmd.io/_uploads/BkSTF9Wj1g.png)
 
-## Lateral Movement
+## SSH key
 Để cho phiên không bị hết, ssh bằng credential ở file `bbot_scans.yaml`
 
 ![image](https://hackmd.io/_uploads/SJ6E59-oye.png)
