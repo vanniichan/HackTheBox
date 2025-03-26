@@ -25,6 +25,7 @@
 |19| Cat | Linux | [Link](https://app.hackthebox.com/machines/646) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Cat/WriteUp.md) |
 |20| Cypher | Linux | [Link](https://app.hackthebox.com/machines/650) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Cypher/WriteUp.md) |
 |21| Dog | Linux | [Link](https://app.hackthebox.com/machines/651) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Dog/WriteUp.md) |
+|22| Code | Linux | [Link](https://app.hackthebox.com/machines/653) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Code/WriteUp.md) |
 
 ## Sherlocks
 | STT | Name Sherlock | Category | Room | Write Up |
@@ -36,6 +37,7 @@
 |5| Bling Bling | SOC |[Link](https://app.hackthebox.com/sherlocks/OpSalwarKameez24-5:%20Bling-Bling/) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Bling%20Bling/WriteUp.md) | 
 |6| Tracer | DFIR (W) | [Link](https://app.hackthebox.com/sherlocks/Tracer) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Tracer/WriteUp.md) |
 |7| Salsa-Dance | DFIR (W) | [Link](https://app.hackthebox.com/sherlocks/OpSalwarKameez24-4:%20Salsa-Dance/info) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Salsa-Dance/WriteUp.md) |
+
 ## Challenges
 | STT | Name Challenge | Category | Room | Write Up |
 | --- | --- | --- | --- | --- |
@@ -45,6 +47,7 @@
 |4| TrueSecrets | Forensics | [Link](https://app.hackthebox.com/challenges/446) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/TrueSecrets/WriteUp.md) |
 |5| Reminiscent | Forensics | [Link](https://app.hackthebox.com/challenges/Reminiscent)| [Link](https://github.com/vanniichan/HackTheBox/blob/main/Reminiscent/WriteUp.md) |
 |6| Redis | Forensics | [Link](https://app.hackthebox.com/challenges/RedTrails)| [Link](https://github.com/vanniichan/HackTheBox/blob/main/RedTrails/WriteUp.md)|
+|7| Red Failure | Forensics | [Link](https://app.hackthebox.com/challenges/291)| [Link](https://github.com/vanniichan/HackTheBox/blob/main/Red%20Failure/WriteUp.md)|
 
 ## Note
 [1] Nhận ra cấu trúc Wup hơi ngáo nên từ đã sửa lại từ máy [Json](https://github.com/vanniichan/HackTheBox/blob/main/Json/WriteUp.md)
