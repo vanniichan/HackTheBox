@@ -46,9 +46,8 @@
 |3| Obsecure| Forensics | [Link](https://app.hackthebox.com/challenges/84)|[Link](https://github.com/vanniichan/HackTheBox/blob/main/Obsecure/WriteUp.md)
 |4| TrueSecrets | Forensics | [Link](https://app.hackthebox.com/challenges/446) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/TrueSecrets/WriteUp.md) |
 |5| Reminiscent | Forensics | [Link](https://app.hackthebox.com/challenges/Reminiscent)| [Link](https://github.com/vanniichan/HackTheBox/blob/main/Reminiscent/WriteUp.md) |
-|6| Redis | Forensics | [Link](https://app.hackthebox.com/challenges/RedTrails)| [Link](https://github.com/vanniichan/HackTheBox/blob/main/RedTrails/WriteUp.md)|
+|6| RedTrails | Forensics | [Link](https://app.hackthebox.com/challenges/RedTrails)| [Link](https://github.com/vanniichan/HackTheBox/blob/main/RedTrails/WriteUp.md)|
 |7| Red Failure | Forensics | [Link](https://app.hackthebox.com/challenges/291)| [Link](https://github.com/vanniichan/HackTheBox/blob/main/Red%20Failure/WriteUp.md)|
-|8| RedTrails |Forensics |[Link](https://app.hackthebox.com/challenges/566) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/RedTrails/WriteUp.md)|
 
 ## Note
 [1] Nhận ra cấu trúc Wup hơi ngáo nên từ đã sửa lại từ máy [Json](https://github.com/vanniichan/HackTheBox/blob/main/Json/WriteUp.md)
