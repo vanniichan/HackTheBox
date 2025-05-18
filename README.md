@@ -50,6 +50,8 @@
 |7| Red Failure | Forensics | [Link](https://app.hackthebox.com/challenges/291)| [Link](https://github.com/vanniichan/HackTheBox/blob/main/Red%20Failure/WriteUp.md)|
 |8| Acknowledge the corn | Forensics | [Link](https://app.hackthebox.com/challenges/293)| [Link](https://github.com/vanniichan/HackTheBox/blob/main/Acknowledge%20the%20corn/WriteUp.md)|
 |9| PersistenceIsFutile | Forensics | [Link](https://app.hackthebox.com/challenges/PersistenceIsFutile)| [Link](https://github.com/vanniichan/HackTheBox/blob/main/PersistenceIsFutile/WriteUp.md)|
+|10| oBfsC4t10n | Forensics | [Link](https://app.hackthebox.com/challenges/oBfsC4t10n)| [Link](https://github.com/vanniichan/HackTheBox/blob/main/oBfsC4t10n/WriteUp.md)|
+
 
 ## Note
 [1] Nhận ra cấu trúc Wup hơi ngáo nên từ đã sửa lại từ máy [Json](https://github.com/vanniichan/HackTheBox/blob/main/Json/WriteUp.md)
