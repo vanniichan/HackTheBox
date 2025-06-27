@@ -26,6 +26,7 @@
 |20| Cypher | Linux | [Link](https://app.hackthebox.com/machines/650) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Cypher/WriteUp.md) |
 |21| Dog | Linux | [Link](https://app.hackthebox.com/machines/651) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Dog/WriteUp.md) |
 |22| Code | Linux | [Link](https://app.hackthebox.com/machines/653) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Code/WriteUp.md) |
+|23| Artificial | Linux | [Link](https://app.hackthebox.com/machines/668) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Artificial/WriteUp.md) |
 
 ## Sherlocks
 | STT | Name Sherlock | Category | Room | Write Up |
