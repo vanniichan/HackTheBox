@@ -52,6 +52,7 @@
 |8| Acknowledge the corn | Forensics | [Link](https://app.hackthebox.com/challenges/293)| [Link](https://github.com/vanniichan/HackTheBox/blob/main/Acknowledge%20the%20corn/WriteUp.md)|
 |9| PersistenceIsFutile | Forensics | [Link](https://app.hackthebox.com/challenges/PersistenceIsFutile)| [Link](https://github.com/vanniichan/HackTheBox/blob/main/PersistenceIsFutile/WriteUp.md)|
 |10| oBfsC4t10n | Forensics | [Link](https://app.hackthebox.com/challenges/oBfsC4t10n)| [Link](https://github.com/vanniichan/HackTheBox/blob/main/oBfsC4t10n/WriteUp.md)|
+|11| oBfsC4t10n2 | Forensics | [Link](https://app.hackthebox.com/challenges/oBfsC4t10n2)| [Link](https://github.com/vanniichan/HackTheBox/blob/main/oBfsC4t10n2/WriteUp.md)|
 
 
 ## Note
