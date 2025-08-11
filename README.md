@@ -27,7 +27,8 @@
 |21| Dog | Linux | [Link](https://app.hackthebox.com/machines/651) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Dog/WriteUp.md) |
 |22| Code | Linux | [Link](https://app.hackthebox.com/machines/653) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Code/WriteUp.md) |
 |23| Artificial | Linux | [Link](https://app.hackthebox.com/machines/668) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Artificial/WriteUp.md) |
-|24| Outbound | Linux | [Link]([https://app.hackthebox.com/machines/668](https://app.hackthebox.com/machines/Outbound)) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Outbound/WriteUp.md) |
+|24| Outbound | Linux | [Link](https://app.hackthebox.com/machines/Outbound) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Outbound/WriteUp.md) |
+|25| Editor | Linux | [Link](https://app.hackthebox.com/machines/684) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Editor/WriteUp.md) |
 
 ## Sherlocks
 | STT | Name Sherlock | Category | Room | Write Up |
