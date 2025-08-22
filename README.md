@@ -56,6 +56,8 @@
 |9| PersistenceIsFutile | Forensics | [Link](https://app.hackthebox.com/challenges/PersistenceIsFutile)| [Link](https://github.com/vanniichan/HackTheBox/blob/main/PersistenceIsFutile/WriteUp.md)|
 |10| oBfsC4t10n | Forensics | [Link](https://app.hackthebox.com/challenges/oBfsC4t10n)| [Link](https://github.com/vanniichan/HackTheBox/blob/main/oBfsC4t10n/WriteUp.md)|
 |11| oBfsC4t10n2 | Forensics | [Link](https://app.hackthebox.com/challenges/oBfsC4t10n2)| [Link](https://github.com/vanniichan/HackTheBox/blob/main/oBfsC4t10n2/WriteUp.md)|
+|12| Window's Infinity Edge | Forensics | [Link](https://app.hackthebox.com/challenges/Window's%2520Infinity%2520Edge)| [Link](https://github.com/vanniichan/HackTheBox/blob/main/Window's%20Infinity%20Edge/WriteUp.md)|
+
 
 
 ## Note
