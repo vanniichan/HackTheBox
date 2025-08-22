@@ -5,7 +5,6 @@ A motivated APT group has breached our company and utilized custom tooling. We'v
 :::
 
 ## Tools use
-- scdbg
 - CyberChef
 - ChatGPT
 - speakeasy
@@ -54,7 +53,7 @@ unxored.append(enc[i] ^ xor_key[i % len(xor_key)])
 print(bytes(unxored))
 ```
 
-Sử dụng **speakeasy** (có sẵn trên Remux) để chạy shellcode và lấy được flag
+Sử dụng **speakeasy** (có sẵn trên Remux) để chạy shellcode và lấy được flag lý do vì nó sử dụng cho x64 tốt hơn **scdbg**
 
 ```
 speakeasy -t shellcode_22.sc -a x64 -r -m
