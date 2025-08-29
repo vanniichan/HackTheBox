@@ -42,6 +42,7 @@
 |7| Salsa-Dance | DFIR (W) | [Link](https://app.hackthebox.com/sherlocks/OpSalwarKameez24-4:%20Salsa-Dance/info) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Salsa-Dance/WriteUp.md) |
 |8| TickTock | DFIR (W) | [Link](https://app.hackthebox.com/sherlocks/TickTock) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/TickTock/WriteUp.md) |
 |9| Unit42 | DFIR (W) | [Link](https://app.hackthebox.com/sherlocks/Unit42) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Unit42/WriteUp.md) |
+|10| SalineBreeze-1 | TI | [Link](https://app.hackthebox.com/sherlocks/SalineBreeze-1) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/SalineBreeze-1/WriteUp.md) |
 
 ## Challenges
 | STT | Name Challenge | Category | Room | Write Up |
