@@ -45,6 +45,7 @@
 |10| SalineBreeze-1 | TI | [Link](https://app.hackthebox.com/sherlocks/SalineBreeze-1) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/SalineBreeze-1/WriteUp.md) |
 |11| Dream Job-1 | TI | [Link](https://app.hackthebox.com/sherlocks/Dream%20Job-1) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Dream%20Job-1/WriteUp.md) |
 |12| UFO-1 | TI | [Link](https://app.hackthebox.com/sherlocks/UFO-1) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/UFO-1/WriteUp.md) |
+|13| Heartbreaker | DFIR | [Link](https://app.hackthebox.com/sherlocks/Heartbreaker) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Heartbreaker/WriteUp.md) |
 
 ## Challenges
 | STT | Name Challenge | Category | Room | Write Up |
