@@ -46,6 +46,7 @@
 |11| Dream Job-1 | TI | [Link](https://app.hackthebox.com/sherlocks/Dream%20Job-1) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Dream%20Job-1/WriteUp.md) |
 |12| UFO-1 | TI | [Link](https://app.hackthebox.com/sherlocks/UFO-1) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/UFO-1/WriteUp.md) |
 |13| Heartbreaker | DFIR | [Link](https://app.hackthebox.com/sherlocks/Heartbreaker) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Heartbreaker/WriteUp.md) |
+|14| PhishNet | DFIR | [Link](https://app.hackthebox.com/sherlocks/PhishNet) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/PhishNet/WriteUp.md) |
 
 ## Challenges
 | STT | Name Challenge | Category | Room | Write Up |
