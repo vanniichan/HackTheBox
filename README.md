@@ -29,6 +29,7 @@
 |23| Artificial | Linux | [Link](https://app.hackthebox.com/machines/668) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Artificial/WriteUp.md) |
 |24| Outbound | Linux | [Link](https://app.hackthebox.com/machines/Outbound) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Outbound/WriteUp.md) |
 |25| Editor | Linux | [Link](https://app.hackthebox.com/machines/684) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Editor/WriteUp.md) |
+|26| Puppy | Windows | [Link](https://app.hackthebox.com/machines/684) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Puppy/WriteUp.md) |
 
 ## Sherlocks
 | STT | Name Sherlock | Category | Room | Write Up |
@@ -68,3 +69,7 @@
 
 ## Note
 [1] Nhận ra cấu trúc Wup hơi ngáo nên từ đã sửa lại từ máy [Json](https://github.com/vanniichan/HackTheBox/blob/main/Json/WriteUp.md)
+
+[2] Sửa lại cấu trúc Wup của Sherlock 
+
+[3] Sửa lại cấu trúc Wup từ máy [Puppy](https://github.com/vanniichan/HackTheBox/blob/main/Puppy/WriteUp.md)
