@@ -65,11 +65,9 @@
 |11| oBfsC4t10n2 | Forensics | [Link](https://app.hackthebox.com/challenges/oBfsC4t10n2)| [Link](https://github.com/vanniichan/HackTheBox/blob/main/oBfsC4t10n2/WriteUp.md)|
 |12| Window's Infinity Edge | Forensics | [Link](https://app.hackthebox.com/challenges/Window's%2520Infinity%2520Edge)| [Link](https://github.com/vanniichan/HackTheBox/blob/main/Window's%20Infinity%20Edge/WriteUp.md)|
 
-
-
 ## Note
 [1] Nhận ra cấu trúc Wup hơi ngáo nên từ đã sửa lại từ máy [Json](https://github.com/vanniichan/HackTheBox/blob/main/Json/WriteUp.md)
 
-[2] Sửa lại cấu trúc Wup của Sherlock 
+[2] Sửa lại cấu trúc Wup của Sherlock từ [SalineBreeze-1](https://github.com/vanniichan/HackTheBox/blob/main/SalineBreeze-1/WriteUp.md)
 
 [3] Sửa lại cấu trúc Wup từ máy [Puppy](https://github.com/vanniichan/HackTheBox/blob/main/Puppy/WriteUp.md)
