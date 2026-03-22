@@ -1,7 +1,6 @@
 # Study and Practice in HackTheBox
 
 ## Machines
-
 | STT | Name Machine | Category | Room | Write Up |
 | --- | --- | --- | --- | -- |
 |1| Nibbles| Linux | [Link](https://www.hackthebox.com/machines/nibbles)|[Link](https://github.com/vanniichan/HackTheBox/blob/main/Nibbles/Wup.md)|
@@ -49,6 +48,7 @@
 |13| Heartbreaker | DFIR | [Link](https://app.hackthebox.com/sherlocks/Heartbreaker) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Heartbreaker/WriteUp.md) |
 |14| PhishNet | DFIR | [Link](https://app.hackthebox.com/sherlocks/PhishNet) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/PhishNet/WriteUp.md) |
 |15| Campfire-1 | DFIR | [Link](https://app.hackthebox.com/sherlocks/Campfire-1) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Campfire-1/WriteUp.md)|
+|16| Loggy | Malware Analysis | [Link](https://app.hackthebox.com/sherlocks/Loggy) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Loggy/WriteUp.md)|
 
 ## Challenges
 | STT | Name Challenge | Category | Room | Write Up |
