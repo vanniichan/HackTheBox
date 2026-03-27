@@ -49,7 +49,8 @@
 |14| PhishNet | DFIR | [Link](https://app.hackthebox.com/sherlocks/PhishNet) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/PhishNet/WriteUp.md) |
 |15| Campfire-1 | DFIR | [Link](https://app.hackthebox.com/sherlocks/Campfire-1) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Campfire-1/WriteUp.md)|
 |16| Loggy | Malware Analysis | [Link](https://app.hackthebox.com/sherlocks/Loggy) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Loggy/WriteUp.md)|
-|17| LogJammer | DFIR |[Link](https://app.hackthebox.com/sherlocks/LogJammer) |[Link](https://github.com/vanniichan/HackTheBox/blob/main/LogJammer/WriteUp.md)
+|17| LogJammer | DFIR |[Link](https://app.hackthebox.com/sherlocks/LogJammer) |[Link](https://github.com/vanniichan/HackTheBox/blob/main/LogJammer/WriteUp.md)|
+|18| Meerkat | DFIR |[Link](https://app.hackthebox.com/sherlocks/Meerkat) |[Link](https://github.com/vanniichan/HackTheBox/blob/main/Meerkat/WriteUp.md)
 
 ## Challenges
 | STT | Name Challenge | Category | Room | Write Up |
