@@ -51,6 +51,7 @@
 |16| Loggy | Malware Analysis | [Link](https://app.hackthebox.com/sherlocks/Loggy) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Loggy/WriteUp.md)|
 |17| LogJammer | DFIR |[Link](https://app.hackthebox.com/sherlocks/LogJammer) |[Link](https://github.com/vanniichan/HackTheBox/blob/main/LogJammer/WriteUp.md)|
 |18| Meerkat | DFIR |[Link](https://app.hackthebox.com/sherlocks/Meerkat) |[Link](https://github.com/vanniichan/HackTheBox/blob/main/Meerkat/WriteUp.md)
+|19| Recollection | DFIR |[Link](https://app.hackthebox.com/sherlocks/Recollection) |[Link](https://github.com/vanniichan/HackTheBox/blob/main/Recollection/WriteUp.md)
 
 ## Challenges
 | STT | Name Challenge | Category | Room | Write Up |
