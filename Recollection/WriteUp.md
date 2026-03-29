@@ -1,14 +1,13 @@
 ![image](https://hackmd.io/_uploads/HJLhu1kjWg.png)
 Một thành viên trong đội bảo mật đã tiến hành nghiên cứu và thử nghiệm trên một hệ điều hành được cho là cũ và không an toàn. Chúng tôi nghi ngờ hệ thống này có thể đã bị xâm nhập và đã thu thập được một bản memory dump của nó. Chúng tôi muốn xác nhận những hành động mà attacker đã thực hiện, cũng như liệu có tài sản nào khác trong môi trường bị ảnh hưởng hay không
-# LogJammer
+# Recollection
 ## Sherlock info
 Name |Recollection
 |-|-|
 Difficulty| Easy
 Category | DFIR|
 ## Note from Scenario
-
-
+Nạn nhân trong quá trình tìm hiểu về SIEM và mã độc đã truy cập MalwareBazaar và vô tình tải về một file độc hại. Mã độc này thuộc nhóm stealer, ransomware và loader, được thực thi thông qua lệnh PowerShell bị obfuscate, từ đó thực hiện các hành vi như đánh cắp dữ liệu, mã hóa file của nạn nhân và tải xuống thêm một file giả mạo có tên gần giống phần mềm hợp pháp của Microsoft
 ## Tools use
 - Volatility2
 - Volatility3
@@ -53,7 +52,7 @@ Chạy command trên bằng powershell ta sẽ thấy nó được viết tắt 
 
 Do đáp đó đáp án là `Invoke-Expression`
 ## 5. A CMD command was executed to attempt to exfiltrate a file. What is the full command line?
-Khi chạy plugin `cmdscan` ta sẽ thấy command attacker đang thực hiênj hành vi đọc nội dung file `Confidential.txt` sau đó ghi vào file `pass.txt` của user `pulice` qua IP `192.168.0.171`
+Khi chạy plugin `cmdscan` ta sẽ thấy command attacker đang thực hiện hành vi đọc nội dung file `Confidential.txt` sau đó ghi vào file `pass.txt` của user `pulice` qua IP `192.168.0.171`
 ![image](https://hackmd.io/_uploads/ryXGhg1sbg.png)
 ## 6. Following the above command, now tell us if the file was exfiltrated successfully?
 Vì attacker dùng UNC path tức là có liên quan đến kết nối ra IP nên ta sẽ dùng `netscan` để kiểm tra xem `conshost.exe` có kết nối nào đến `192.168.0.171` không
