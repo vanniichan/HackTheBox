@@ -52,6 +52,7 @@
 |17| LogJammer | DFIR |[Link](https://app.hackthebox.com/sherlocks/LogJammer) |[Link](https://github.com/vanniichan/HackTheBox/blob/main/LogJammer/WriteUp.md)|
 |18| Meerkat | DFIR |[Link](https://app.hackthebox.com/sherlocks/Meerkat) |[Link](https://github.com/vanniichan/HackTheBox/blob/main/Meerkat/WriteUp.md)
 |19| Recollection | DFIR |[Link](https://app.hackthebox.com/sherlocks/Recollection) |[Link](https://github.com/vanniichan/HackTheBox/blob/main/Recollection/WriteUp.md)
+|20| Detroit Becomes Human | DFIR |[Link](https://app.hackthebox.com/sherlocks/Detroit%2520Becomes%2520Human) |[Link](https://github.com/vanniichan/HackTheBox/blob/main/Detroit%20Becomes%20Human/WriteUp.md)
 
 ## Challenges
 | STT | Name Challenge | Category | Room | Write Up |
