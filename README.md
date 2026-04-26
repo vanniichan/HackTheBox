@@ -55,6 +55,7 @@
 |20| Detroit Becomes Human | DFIR |[Link](https://app.hackthebox.com/sherlocks/Detroit%2520Becomes%2520Human) |[Link](https://github.com/vanniichan/HackTheBox/blob/main/Detroit%20Becomes%20Human/WriteUp.md)
 |21| Streamer | DFIR |[Link](https://app.hackthebox.com/sherlocks/Streamer) |[Link](https://github.com/vanniichan/HackTheBox/blob/main/Streamer/WriteUp.md)
 |22| Jinkies | DFIR |[Link](https://app.hackthebox.com/sherlocks/Jinkies) |[Link](https://github.com/vanniichan/HackTheBox/blob/main/Jinkies/WriteUp.md)
+|23| FortySeven-1 | TI | [Link](https://app.hackthebox.com/sherlocks/FortySeven-1) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/FortySeven-1/WriteUp.md)
 ## Challenges
 | STT | Name Challenge | Category | Room | Write Up |
 | --- | --- | --- | --- | --- |
