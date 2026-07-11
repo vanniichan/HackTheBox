@@ -56,6 +56,7 @@
 |21| Streamer | DFIR |[Link](https://app.hackthebox.com/sherlocks/Streamer) |[Link](https://github.com/vanniichan/HackTheBox/blob/main/Streamer/WriteUp.md)
 |22| Jinkies | DFIR |[Link](https://app.hackthebox.com/sherlocks/Jinkies) |[Link](https://github.com/vanniichan/HackTheBox/blob/main/Jinkies/WriteUp.md)
 |23| FortySeven-1 | TI | [Link](https://app.hackthebox.com/sherlocks/FortySeven-1) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/FortySeven-1/WriteUp.md)
+|24| SmartyPants | DFIR | [Link](https://app.hackthebox.com/sherlocks/SmartyPants) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/SmartyPants/WriteUp.md)
 ## Challenges
 | STT | Name Challenge | Category | Room | Write Up |
 | --- | --- | --- | --- | --- |
