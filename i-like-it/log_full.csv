@@ -1,0 +1,13 @@
+﻿ID,LogTime,Action,InstID,Username,FolderID,FileID,IPAddress,Error,Parm1,Parm2,Parm3,Parm4,Message,AgentBrand,AgentVersion,XferSize,Duration,FileName,FolderPath,ResilNode,TargetID,TargetName,Hash,Cert,VirtualFolderID,VirtualFolderPath,CScanName,InterfaceType,SuppressName
+1,2023-06-14 02:21:48,inst_add,0,Automation,0,,SCRIPT,0,0,(System),,,,None,,0,0,,,0,,,72cb885bb544c5dac4e2b2bcf97fdf68a3b8ee84,,0,,,0,0
+2,2023-06-14 02:21:48,noop,0,Automation,0,,,0,,,,,,None,,0,0,,,0,,,0000000000000000000000000000000000000000,,0,,,,0
+3,2023-06-14 02:21:48,sec_resetlog,0,Automation,0,,,0,,,,,,None,,0,0,,,0,,,264c76d9823c65d23c547ce74728bc51c2adb281,,0,,,0,0
+4,2023-06-14 02:21:48,inst_xusrlockout,0,Automation,0,,SCRIPT,0,0,5,6,0,,None,,0,0,,,0,,,76c14da033e0528b384c8cd4056169bcf9662629,,0,,,0,0
+5,2023-06-14 02:21:48,noop,0,Automation,0,,,0,,,,,,None,,0,0,,,0,,,0000000000000000000000000000000000000000,,0,,,,0
+6,2023-06-14 02:21:48,sec_resetlog,0,Automation,0,,,0,,,,,,None,,0,0,,,0,,,cfa023712374ba10f009f3331238b1e52076d90d,,0,,,0,0
+7,2023-06-14 02:21:48,folder_add,0,Automation,966829045,,SCRIPT,0,sysadmin,/Home/sysadmin,,,,None,,0,0,,/Home/sysadmin,0,,,fc316aced5d1a0c91ebf43417eeb3be80180dcf5,,966829045,/Home/sysadmin,,0,0
+8,2023-06-14 02:21:48,user_add,0,Automation,0,,SCRIPT,0,sysadmin,Default SysAdmin,Maintenance Admin,,,None,,0,0,,,0,1411u00clwv9ye3h,Default SysAdmin,be4947da1cc4fae17278102f0262acce91e17893,,0,,,0,0
+9,2023-06-14 02:27:18,sec_signon,0,1411u00clwv9ye3h,0,,127.0.0.1,0,,,,,Signed on with local password.,Internet Explorer,11.0,0,0,,,0,,,61bd8fbb4b5869261c6fbfee492f9934619ccf11,,0,,,10,0
+10,2023-06-14 02:35:11,inst_add,0,1411u00clwv9ye3h,0,,127.0.0.1,0,3636,HTB,,,,Internet Explorer,11.0,0,0,,,0,,,b3760c03c909ef17ee72217233ac3194053184d1,,0,,,10,0
+11,2023-06-14 02:35:11,noop,3636,Automation,0,,,0,,,,,,None,,0,0,,,0,,,0000000000000000000000000000000000000000,,0,,,,0
+12,2023-06-14 02:35:11,sec_resetlog,3636,1411u00clwv9ye3h,0,,,0,,,,,,Internet Explorer,11.0,0,0,,,0,,,5b28e53c3a65ec1ff9036fb14ac904906628a9d9,,0,,,10,0
