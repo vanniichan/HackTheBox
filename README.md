@@ -59,6 +59,7 @@
 |24| SmartyPants | DFIR | [Link](https://app.hackthebox.com/sherlocks/SmartyPants) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/SmartyPants/WriteUp.md)
 |25| i-like-it | DFIR | [Link](https://app.hackthebox.com/sherlocks/i-like-to) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/i-like-it/WriteUp.md)
 |26| ReliableThreat | DFIR | [Link](https://app.hackthebox.com/sherlocks/ReliableThreat) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/ReliableThreat/WriteUp.md)
+|27| Yggdrasil | DFIR | [Link](https://app.hackthebox.com/sherlocks/Yggdrasil) | [Link](https://github.com/vanniichan/HackTheBox/tree/main/Yggdrasil)
 ## Challenges
 | STT | Name Challenge | Category | Room | Write Up |
 | --- | --- | --- | --- | --- |
