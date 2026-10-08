@@ -60,6 +60,7 @@
 |25| i-like-it | DFIR | [Link](https://app.hackthebox.com/sherlocks/i-like-to) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/i-like-it/WriteUp.md)
 |26| ReliableThreat | DFIR | [Link](https://app.hackthebox.com/sherlocks/ReliableThreat) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/ReliableThreat/WriteUp.md)
 |27| Yggdrasil | DFIR | [Link](https://app.hackthebox.com/sherlocks/Yggdrasil) | [Link](https://github.com/vanniichan/HackTheBox/tree/main/Yggdrasil)
+|28| WhaleSecret | DFIR | [Link](https://app.hackthebox.com/sherlocks/WhaleSecret) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/WhaleSecret/WriteUp.md)
 ## Challenges
 | STT | Name Challenge | Category | Room | Write Up |
 | --- | --- | --- | --- | --- |
