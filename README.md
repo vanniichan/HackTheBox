@@ -62,6 +62,7 @@
 |27| Yggdrasil | DFIR | [Link](https://app.hackthebox.com/sherlocks/Yggdrasil) | [Link](https://github.com/vanniichan/HackTheBox/tree/main/Yggdrasil)
 |28| WhaleSecret | DFIR | [Link](https://app.hackthebox.com/sherlocks/WhaleSecret) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/WhaleSecret/WriteUp.md)
 |29| Mellitus | DFIR | [Link](https://app.hackthebox.com/sherlocks/Mellitus) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/Mellitus/WriteUp.md)
+|30| SaSync | DFIR | [Link](https://app.hackthebox.com/sherlocks/SaSync) | [Link](https://github.com/vanniichan/HackTheBox/blob/main/SaSync/WriteUp.md)
 ## Challenges
 | STT | Name Challenge | Category | Room | Write Up |
 | --- | --- | --- | --- | --- |
